@@ -1,1 +1,6 @@
 @import "tailwindcss";
+@import "./likelion-theme.css" layer(theme);
+
+:root {
+  --color-euid: #ffc;
+}
